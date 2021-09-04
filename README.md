@@ -7,3 +7,6 @@ https://ia803103.us.archive.org/26/items/ag_20210704/AG.mp4
 group-title="canais ", Globo
 
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+#EXTINF:- tvg-logo=" "
+
+group-title = "canais", PREMIER https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
