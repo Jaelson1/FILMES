@@ -1,4 +1,3 @@
-#EXTM3U
 
 #EXTINF:- tvg-logo=" https://image.tmdb.org/t/p/w300/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg" group-title="Lancamento ", Guerra do amanhã
 https://ia803103.us.archive.org/26/items/ag_20210704/AG.mp4
@@ -34,7 +33,13 @@ https://aplicativo.pobreflix.site/filmes/Cont%C3%A1gio.Em.Alto.%20Mar.mp4
 
 #EXTINF:- tvg-logo="https://www.acervofilmes.com/wp-content/uploads/2021/05/uHEZ4ZMziIjlAgCTQAEh9ROvtj0-160x230.jpg" group-title="Lancamento ", Sem remorso
 
-https://r4---sn-bg0eznlz.googlevideo.com/videoplayback?expire=1630785840&ei=ELUzYYyXJeHo1AHW_4TwAg&ip=186.235.132.57&id=0d10de1f1642191e&itag=37&source=picasa&begin=0&requiressl=yes&mh=_W&mm=32&mn=sn-bg0eznlz&ms=su&mv=u&mvi=4&pl=24&sc=yes&susc=ph&app=fife&ic=51&eaua=uEYuMJyhauw&eaer=1&mime=video/mp4&vprv=1&prv=1&cnr=14&dur=6555.689&lmt=1619945203210823&mt=1630777575&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,ic,eaua,eaer,mime,vprv,prv,cnr,dur,lmt&sig=AOq0QJ8wRQIgI7p9bUosrBNCnoXpltiXY5fV-M7CY74jroweq--kfboCIQCLCRHQhFDa7tUHfJaZ7Z74YRRZ6IZm3MuNTli6rgFMxg==&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhALLvJSbrlS4z1XNo7m-4jWBp956MDG7r8L6_Rk3wGMt3AiEAvY5TCCCDj9P_tC7ZpxMI3oxH_Ar1rCNY1YsdRPWP2uM=
+https://r4---sn-bg0eznlz.googlevideo.com/videoplayback?expire=1630785840&ei=ELUzYYyXJeHo1AHW_4TwAg&ip=186.235.132.57&id=0d10de1f1642191e&itag=37&source-m / hl = m & squirl=vs & msource1f1642191e&itag=0&source1f1642191e&itag=37&source-m / hl = m & m & squirl= = 4 & pl = 24 & sc = yes & susc = ph & app = fife & ic = 51 & eaua = uEYuMJyhauw & eaer = 1 & mime = video / mp4 & vprv = 1 & prv = 1 & cnr = 14 & dur = 6555.689 & lmt = uEYuMJyhauw & eaer = 1 & mime = video / mp4 & vprv = 1 & prv = 1 & cnr = 14 & dur = 6555.689 & lmt = 161994575, fonte susc10823 & mt = 161997575, expire & mt = 1619975, requerl, expire, requer, sp = 163077, requerl, expira, e mt = 163075, requerl = 163075, requer, sp = 163075, requerl, requer, sp = 1630 aplicativo, ic, eaua, eaer, mime, vprv, PRV, CNR, dur, lmt & sig = AOq0QJ8wRQIgI7p9bUosrBNCnoXpltiXY5fV-M7CY74jroweq - kfboCIQCLCRHQhFDa7tUHfJaZ7Z74YRRZ6IZm3MuNTli6rgFMxg == & lsparams = mh, mm, mn, ms, mv, MVI, pl, sc &lsig = AG3C_xAwRgIhALLvJSbrlS4z1XNo7m-4jWBp956MDG7r8L6_Rk3wGMt3AiEAvY5TCCCDj9P_tC7ZpxMI3oxH_Ar1rCNY1YsdRPWP2uM =
+#EXTM3U
+
+#EXTINF:- tvg-logo="https://www.themoviedb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg" group-title="Lancamento ", esquadrão suicida
+
+https://www1581.ff-04.com/token=KvR6hY7zbnMd-zkvbjjZRA/1630794091/186.235.0.0/19/e/30/ee6eb192711c5220c7f992132bfbc30e-720p.mp4
+
 
 
 
