@@ -13,3 +13,4 @@ group-title = "canais", PREMIER https://newedge.eu-central-1.edge.mycdn.live/liv
 #EXTINF:- tvg-logo=" "
 
 group-title = "canais", PREMIER https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
