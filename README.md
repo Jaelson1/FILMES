@@ -15,3 +15,9 @@ group-title = "canais", PREMIERhttps://newedge.eu-central-1.edge.mycdn.live/live
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF: - tvg-logo = ""
 group-title = "canais", PREMIER https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTM3U
+
+#EXTINF:- tvg-logo=" https://cdn.shortpixel.ai/spai/w_311+q_lossy+ret_img+to_webp/https://assistirfilmesonlinehd12.com/wp-content/uploads/2021/07/9E76j2DcQv8LdbX1Wa9jpbDBfw1-185x278.jpg" group-title="Lancamento ", jungle cruise
+
+https://www271.ff-01.com/token=CVHs955laG3QKn0IGTd6VA/1630790744/186.235.0.0/5/c/4c/6c1c55ab08020014bd550727e1aa54cc-720p.mp4
+
