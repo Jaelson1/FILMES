@@ -39,6 +39,12 @@ https://r4---sn-bg0eznlz.googlevideo.com/videoplayback?expire=1630785840&ei=ELUz
 #EXTINF:- tvg-logo="https://www.themoviedb.org/t/p/original/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg" group-title="Lancamento ", esquadrão suicida
 
 https://www1581.ff-04.com/token=KvR6hY7zbnMd-zkvbjjZRA/1630794091/186.235.0.0/19/e/30/ee6eb192711c5220c7f992132bfbc30e-720p.mp4
+#EXTM3U
+
+#EXTINF:- tvg-logo="https://image.tmdb.org/t/p/w533_and_h300_bestv2/xjotE7aFdZ0D8aGriYjFOtDayct.jpg" group-title="Lancamento ", esquadrão suicida
+
+https://www1878.ff-04.com/token=eNn_pwOyOYj8ueIbZVZRvw/1630797901/186.235.0.0/77/f/b8/50f5c26976a6c862306fec0873ea4b8f-720p.mp4
+
 
 
 
