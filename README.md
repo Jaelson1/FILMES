@@ -25,5 +25,11 @@ https://www271.ff-01.com/token=CVHs955laG3QKn0IGTd6VA/1630790744/186.235.0.0/5/c
 #EXTINF:- tvg-logo="https://www.acervofilmes.com/wp-content/uploads/2021/08/k2ECnRAZMR4oH49XdGbazJPNmUc-160x230.jpg" group-title="Lancamento ", Tubarão Branco
 
 https://aplicativo.pobreflix.site/filmes/Grande.Tubar%C3%A3o.Branco.mp4
+#EXTM3U
+
+#EXTINF:- tvg-logo="https://www.acervofilmes.com/wp-content/uploads/2021/08/wV4dxHCsdwEKYUeGAvzq1cKDRU6-160x230.jpg" group-title="Lancamento ", Contagio em auto mar
+
+https://aplicativo.pobreflix.site/filmes/Cont%C3%A1gio.Em.Alto.%20Mar.mp4
+
 
 
