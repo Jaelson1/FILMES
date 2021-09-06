@@ -49,6 +49,12 @@ https://www1878.ff-04.com/token=eNn_pwOyOYj8ueIbZVZRvw/1630797901/186.235.0.0/77
 #EXTINF:- tvg-logo="https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg" group-title="Lancamento ", esport tv sd
 
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+#EXTM3U
+
+#EXTINF:- tvg-logo="https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg" group-title="Lancamento ", esport tv HD
+
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
 
 
 
