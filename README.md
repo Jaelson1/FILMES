@@ -54,6 +54,12 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF:- tvg-logo="https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg" group-title="Lancamento ", esport tv HD
 
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTM3U
+
+#EXTINF:- tvg-logo="https://static.futemax.gratis/wp-content/uploads/f3ac8f59be18b45f5d75e41e4a75ff4c.jpg" group-title="Lancamento ", esport tv HD+
+
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+
 
 
 
